@@ -22,3 +22,5 @@ El script permite seleccionar una imagen, convertirla a una representación en A
 1. Clona este repositorio o descarga el archivo `Imagen en ASCII.py`.
 
 2. Instala las dependencias necesarias ejecutando:
+
+3. pip install pillow
